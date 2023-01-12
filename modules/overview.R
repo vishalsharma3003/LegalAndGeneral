@@ -107,7 +107,7 @@ overview_server <- function(id, data) {
         value = value,
         title = "# Employees",
         description = "Number of employees in the dataset",
-        icon = "fa fa-people"
+        icon = "fa fa-person"
       )
     })
     
@@ -117,7 +117,7 @@ overview_server <- function(id, data) {
         value = value,
         title = "# Occupations",
         description = "Number of occupations in the dataset",
-        icon = "fa fa-building"
+        icon = "fa fa-briefcase"
       )
     })
     
@@ -132,7 +132,7 @@ overview_server <- function(id, data) {
         value = value,
         title = "Annual Salary",
         description = "Average of annual salary for all employees",
-        icon = "fa fa-building"
+        icon = "fa fa-money-bill"
       )
     })
     
@@ -149,7 +149,7 @@ overview_server <- function(id, data) {
         value = value,
         title = "Monthly Salary",
         description = "Average of monthly salary for all employees",
-        icon = "fa fa-building"
+        icon = "fa fa-money-bill"
       )
     })
     
@@ -160,7 +160,7 @@ overview_server <- function(id, data) {
         value = value,
         title = "Age",
         description = "Average age for all the employees in the dataset",
-        icon = "fa fa-building"
+        icon = "fa fa-list-ol"
       )
     })
     
