@@ -5,10 +5,10 @@ account: vishalsharma
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8020107
-bundleId: 6725178
+bundleId: 6725419
 url: https://vishalsharma.shinyapps.io/LegalAndGeneral/
-when: 1673519992.02594
-lastSyncTime: 1673519992.02595
+when: 1673525651.10772
+lastSyncTime: 1673525651.10773
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: full_data.csv|Technical_Test_Interview_draft.docx|utility.R
